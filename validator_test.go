@@ -5,8 +5,8 @@ import (
 	"strings"
 	"testing"
 
-	u "github.com/ipfs/go-ipfs-util"
-	ci "github.com/libp2p/go-libp2p-crypto"
+	u "github.com/dms3-fs/go-fs-util"
+	ci "github.com/dms3-p2p/go-p2p-crypto"
 )
 
 var OffensiveKey = "CAASXjBcMA0GCSqGSIb3DQEBAQUAA0sAMEgCQQDjXAQQMal4SB2tSnX6NJIPmC69/BT8A8jc7/gDUZNkEhdhYHvc7k7S4vntV/c92nJGxNdop9fKJyevuNMuXhhHAgMBAAE="

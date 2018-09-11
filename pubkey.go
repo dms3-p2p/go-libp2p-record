@@ -5,8 +5,8 @@ import (
 	"errors"
 	"fmt"
 
-	u "github.com/ipfs/go-ipfs-util"
-	mh "github.com/multiformats/go-multihash"
+	u "github.com/dms3-fs/go-fs-util"
+	mh "github.com/dms3-mft/go-multihash"
 )
 
 // PublicKeyValidator is a Validator that validates public keys.

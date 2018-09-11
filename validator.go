@@ -3,7 +3,7 @@ package record
 import (
 	"errors"
 
-	logging "github.com/ipfs/go-log"
+	logging "github.com/dms3-fs/go-log"
 )
 
 var log = logging.Logger("routing/record")
